@@ -5,7 +5,7 @@
   "main": "bin/www.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "cross-env NODE-ENV=dev nodemon ./bin/www.js" //NODE-ENV貌似可以随便取名
+    "dev": "cross-env NODE-ENV=dev nodemon ./bin/www.js"
   },
   "keywords": [],
   "author": "",
